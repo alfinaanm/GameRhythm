@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3080d7b18914ef8a3d189c1432410a, type: 3}
+  m_Name: Sweet Child O Mine
+  m_EditorClassIdentifier: 
+  title: Sweet Child Of Mine
+  artist: Guns N' Roses
+  bpm: 123
+  song: {fileID: 8300000, guid: 57c20ad152d3cf24a93b4d7f01ea1ed6, type: 3}
+  beatmap: {fileID: 9217941883952291848, guid: 67b7bf7b01f1d69479c776bbcacc11ff, type: 3}
+  savePath: /sweetchild.bin

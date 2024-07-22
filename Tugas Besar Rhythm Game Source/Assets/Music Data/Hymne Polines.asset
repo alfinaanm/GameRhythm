@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3080d7b18914ef8a3d189c1432410a, type: 3}
+  m_Name: Hymne Polines
+  m_EditorClassIdentifier: 
+  title: Hymne Polines
+  artist: Politeknik Negeri Semarang
+  bpm: 83
+  song: {fileID: 8300000, guid: 96f0784677e1fc74a888590707738a06, type: 3}
+  beatmap: {fileID: 9217941883952291848, guid: 872661d289d7486418c2b2731cc1f142, type: 3}
+  savePath: /polines.bin

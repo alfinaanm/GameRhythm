@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3080d7b18914ef8a3d189c1432410a, type: 3}
+  m_Name: Adventure Of A Lifetime
+  m_EditorClassIdentifier: 
+  title: Adventure Of A Lifetime
+  artist: Coldplay
+  bpm: 112
+  song: {fileID: 8300000, guid: 65178a30ecc8c334da1c274dde6adfb2, type: 3}
+  beatmap: {fileID: 9217941883952291848, guid: ac8cc5a0e95f8ae4a9527db0d32518de, type: 3}
+  savePath: /adventure.bin
